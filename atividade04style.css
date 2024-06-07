@@ -1,0 +1,28 @@
+nav{
+  display: flex;
+  background-color: gray;
+  height: 400px;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+#div1{
+  background-color: chocolate;
+  width: 400px;
+  height: 200px;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-left: 6px;
+}
+#div2{
+  background-color: gold;
+  width: 490px;
+  height: 200px;
+  margin-top: 15px;
+}
+.div3{
+  background-color: green;
+  width: 280px;
+  height: 165px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
